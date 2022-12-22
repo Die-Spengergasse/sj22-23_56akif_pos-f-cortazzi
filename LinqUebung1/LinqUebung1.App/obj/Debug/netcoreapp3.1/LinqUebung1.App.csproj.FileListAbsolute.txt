@@ -1,0 +1,16 @@
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.exe
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.deps.json
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.runtimeconfig.json
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.runtimeconfig.dev.json
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.dll
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\LinqUebung1.App.pdb
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.csproj.AssemblyReference.cache
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.AssemblyInfoInputs.cache
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.AssemblyInfo.cs
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.csproj.CoreCompileInputs.cache
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.csproj.CopyComplete
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.dll
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.pdb
+C:\Schrutek\SPG_POS\CSharp\LinQ\03_Filterung\LinqUebung1\LinqUebung1.App\obj\Debug\netcoreapp3.1\LinqUebung1.App.genruntimeconfig.cache
